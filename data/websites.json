@@ -59,6 +59,16 @@
       "name": "Supreme Court",
       "url": "https://supremecourt.gov.np",
       "description": "Official Website Of Supreme Court of Nepal"
+    },
+    {
+      "name":"Office of the Attorney General Nepal",
+      "url":"https://ag.gov.np",
+      "description":"Official Government Attorney of Nepal"
+    },
+    {
+      "name":"Office of the Auditor General",
+      "url":"https://oag.gov.np",
+      "description":"Supreme Audit Institution of Nepal"
     }
   ]
 }
